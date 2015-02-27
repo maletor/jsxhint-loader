@@ -1,6 +1,7 @@
 {
   "name": "jsxhint-loader",
   "version": "0.2.0",
+  "repository":  "rcs/jsxhint-loader",
   "description": "jsxhint loader for webpack",
   "main": "index.js",
   "author": "Ryan Sorensen",
